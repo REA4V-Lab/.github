@@ -1,6 +1,6 @@
 # REA4V-Lab
 
-Independent software lab run by [**EmanuelPlaysDev\**](https://github.com/EmanuelPlays). Fabric mods, Forge Mods, Spigot & Paper plugins — built solo.
+Independent software lab run by **[EmanuelPlaysDev\](https://github.com/EmanuelPlays)**. Fabric mods, Forge Mods, Spigot & Paper plugins — built solo.
 
 ---
 
