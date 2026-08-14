@@ -34,9 +34,8 @@ The recurring shapes of the work:
 
 ---
 
-<sub>Maintained by <a href="https://github.com/EmanuelPlays">@EmanuelPlays</a>.</sub>
+> [!Member(s) of this organization]
+> EmanuelPlaysDev = Owner & Head Development
 
 
-> [!NOTE]
-> Owned by EmanuelPlaysDev, some projects in this organization are not owned by me
 
