@@ -37,7 +37,7 @@ The recurring shapes of the work:
 
 ---
 > [!Note]
-> [!Member(s) of this organization]
+> # Ranks
 > EmanuelPlaysDev = Owner & Head Development
 
 
