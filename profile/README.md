@@ -16,8 +16,11 @@ The recurring shapes of the work:
 
 ### Featured
 
-![Spigban](https://cdn.modrinth.com/data/iUkzQgoX/d7bb37032d83bca73474c320954ce3c2d7b48333_96.webp)**
+**SpigBan**
 [SpigBan](https://github.com/REA4V-Lab/SpigBan)** — an all-in-one punishment management plugin for Spigot/Paper 1.21.x. Bans, temp-bans, IP-bans, mutes, warns, and a full case-history system with sequential `SPGB-XXXXXX` case IDs. SQLite/MySQL backend, LuckPerms integration.
+
+![IMAGE](https://cdn.modrinth.com/data/iUkzQgoX/d7bb37032d83bca73474c320954ce3c2d7b48333_96.webp)
+
 
 ### Contributions
 
